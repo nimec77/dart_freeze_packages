@@ -1,0 +1,8 @@
+	test_kit:
+		path: plugins/test_kit
+	flutter_test:
+		sdk: flutter
+	flutter_driver:
+		sdk: flutter
+	build_runner: 2.1.7
+	bloc_test: 8.5.0
